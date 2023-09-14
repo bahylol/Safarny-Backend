@@ -1,0 +1,44 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  
+  "engines": {
+    "node": "14.x"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@azure/openai": "^1.0.0-beta.3",
+    "@googlemaps/google-maps-services-js": "^3.3.36",
+    "@sendgrid/mail": "^7.7.0",
+    "all-the-cities": "^3.1.0",
+    "body-parser": "^1.20.2",
+    "cheerio": "^1.0.0-rc.12",
+    "cloudinary": "^1.40.0",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "express": "^4.18.2",
+    "fs": "^0.0.1-security",
+    "google-search-results-nodejs": "^2.1.0",
+    "html-pdf": "^3.0.1",
+    "jsonwebtoken": "^9.0.1",
+    "knex": "^2.5.0",
+    "lodash": "^4.17.21",
+    "multer": "^1.4.5-lts.1",
+    "nodemon": "^3.0.1",
+    "path": "^0.12.7",
+    "pdf-creator-node": "^2.3.5",
+    "pg": "^8.11.2",
+    "serpapi": "^2.0.0",
+    "stripe": "^13.4.0",
+    "uuid": "^9.0.0",
+    "ws": "^8.14.1"
+  }
+}
