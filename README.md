@@ -41,19 +41,17 @@
             <li>Enter in your browser http://localhost:3001/</li>
         </ol></h3>
     <h2>.env.example</h2>
-      ```sh
-   POSTGRES_URL=
-JWT=
-FRONTEND="http://localhost:3000"
-AZUERAPIKEY =
-ENDPOINT = 
-GOOGLEMAPSAPIKEY = 
-BACKENDURL="3001"
-CLOUDINARYAPIKEY=
-CLOUDINARYSCREETAPIKEY=
-SREPAPI=
-SEND_GRID_KEY=
-  ```
+<p>POSTGRES_URL=</p>
+<p>JWT=</p>
+<p>FRONTEND="http://localhost:3000"</p>
+<p>AZUERAPIKEY =</p>
+<p>ENDPOINT =</p>
+<p>GOOGLEMAPSAPIKEY =</p>
+<p>BACKENDURL="3001"</p>
+<p>CLOUDINARYAPIKEY=</p>
+<p>CLOUDINARYSCREETAPIKEY=</p>
+<p>SREPAPI=</p>
+<p>SEND_GRID_KEY=</p>
     <h2>List of Features</h2>
         <ul>
             <li>Responsive Design</li>
@@ -74,10 +72,10 @@ SEND_GRID_KEY=
     <br>
     <h3>Plan example</h3>
     <br>
-    <img src="README_Files/Setup1.png" alt="Alt text" title="Plan" width="600">
-    <img src="README_Files/Setup2.png" alt="Alt text" title="Plan" width="600">
-    <img src="README_Files/Setup3.png" alt="Alt text" title="Plan" width="600">
-    <img src="README_Files/Setup4.png" alt="Alt text" title="Plan" width="600">
+    <img src="README_Files/Setup1.png" alt="Alt text" title="Plan" width="400">
+    <img src="README_Files/Setup2.png" alt="Alt text" title="Plan" width="400">
+    <img src="README_Files/Setup3.png" alt="Alt text" title="Plan" width="400">
+    <img src="README_Files/Setup4.png" alt="Alt text" title="Plan" width="400">
     <br>
     <img src="README_Files/Plan1.png" alt="Alt text" title="Plan" width="1000">
     <br>
