@@ -16,6 +16,7 @@
             <li>Table of contents</li>
             <li>Description</li>
             <li>Usage</li>
+            <li>.env.example</li>
             <li>List of Features</li>
             <li>Preview</li>
             <li>Contributers</li>
@@ -39,6 +40,20 @@
             <li>Run npm start in the backend folder then the frontend folder and wait a min or two</li>
             <li>Enter in your browser http://localhost:3001/</li>
         </ol></h3>
+    <h2>.env.example</h2>
+    ```POSTGRES_URL=
+JWT=
+FRONTEND="http://localhost:3000"
+AZUERAPIKEY =
+ENDPOINT = 
+GOOGLEMAPSAPIKEY = 
+BACKENDURL="3001"
+CLOUDINARYAPIKEY=
+CLOUDINARYSCREETAPIKEY=
+SREPAPI=
+SEND_GRID_KEY=
+
+    ```
     <h2>List of Features</h2>
         <ul>
             <li>Responsive Design</li>
