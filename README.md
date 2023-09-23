@@ -72,10 +72,10 @@
     <br>
     <h3>Plan example</h3>
     <br>
-    <img src="README_Files/Setup1.png" alt="Alt text" title="Plan" width="400">
-    <img src="README_Files/Setup2.png" alt="Alt text" title="Plan" width="400">
-    <img src="README_Files/Setup3.png" alt="Alt text" title="Plan" width="400">
-    <img src="README_Files/Setup4.png" alt="Alt text" title="Plan" width="400">
+    <img src="README_Files/Setup1.png" alt="Alt text" title="Plan" width="800">
+    <img src="README_Files/Setup2.png" alt="Alt text" title="Plan" width="800">
+    <img src="README_Files/Setup3.png" alt="Alt text" title="Plan" width="800">
+    <img src="README_Files/Setup4.png" alt="Alt text" title="Plan" width="800">
     <br>
     <img src="README_Files/Plan1.png" alt="Alt text" title="Plan" width="1000">
     <br>
