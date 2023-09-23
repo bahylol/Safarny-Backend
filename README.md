@@ -41,7 +41,8 @@
             <li>Enter in your browser http://localhost:3001/</li>
         </ol></h3>
     <h2>.env.example</h2>
-    ```POSTGRES_URL=
+      ```sh
+   POSTGRES_URL=
 JWT=
 FRONTEND="http://localhost:3000"
 AZUERAPIKEY =
@@ -52,8 +53,7 @@ CLOUDINARYAPIKEY=
 CLOUDINARYSCREETAPIKEY=
 SREPAPI=
 SEND_GRID_KEY=
-
-    ```
+  ```
     <h2>List of Features</h2>
         <ul>
             <li>Responsive Design</li>
